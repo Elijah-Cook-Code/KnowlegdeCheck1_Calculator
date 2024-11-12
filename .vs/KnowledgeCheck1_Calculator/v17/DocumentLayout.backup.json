@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\code you projects\\KnowledgeCheck1_Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D1A3184-31DD-4555-A258-7A065846DE75}|KnowledgeCheck1_Calculator\\KnowledgeCheck1_Calculator.csproj|c:\\code you projects\\knowledgecheck1_calculator\\knowledgecheck1_calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D1A3184-31DD-4555-A258-7A065846DE75}|KnowledgeCheck1_Calculator\\KnowledgeCheck1_Calculator.csproj|solutionrelative:knowledgecheck1_calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9D1A3184-31DD-4555-A258-7A065846DE75}|KnowledgeCheck1_Calculator\\KnowledgeCheck1_Calculator.csproj|c:\\code you projects\\knowledgecheck1_calculator\\knowledgecheck1_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D1A3184-31DD-4555-A258-7A065846DE75}|KnowledgeCheck1_Calculator\\KnowledgeCheck1_Calculator.csproj|solutionrelative:knowledgecheck1_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1A3184-31DD-4555-A258-7A065846DE75}|KnowledgeCheck1_Calculator\\KnowledgeCheck1_Calculator.csproj|c:\\code you projects\\knowledgecheck1_calculator\\knowledgecheck1_calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1A3184-31DD-4555-A258-7A065846DE75}|KnowledgeCheck1_Calculator\\KnowledgeCheck1_Calculator.csproj|solutionrelative:knowledgecheck1_calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\code you projects\\KnowledgeCheck1_Calculator\\KnowledgeCheck1_Calculator\\Program.cs",
               "RelativeDocumentMoniker": "KnowledgeCheck1_Calculator\\Program.cs",
               "ToolTip": "C:\\code you projects\\KnowledgeCheck1_Calculator\\KnowledgeCheck1_Calculator\\Program.cs",
               "RelativeToolTip": "KnowledgeCheck1_Calculator\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T00:57:14.698Z"
+              "WhenOpened": "2024-11-09T00:57:14.698Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Calculator.cs",
               "DocumentMoniker": "C:\\code you projects\\KnowledgeCheck1_Calculator\\KnowledgeCheck1_Calculator\\Calculator.cs",
               "RelativeDocumentMoniker": "KnowledgeCheck1_Calculator\\Calculator.cs",
               "ToolTip": "C:\\code you projects\\KnowledgeCheck1_Calculator\\KnowledgeCheck1_Calculator\\Calculator.cs",
               "RelativeToolTip": "KnowledgeCheck1_Calculator\\Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T00:58:38.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T00:58:38.641Z"
             }
           ]
         }

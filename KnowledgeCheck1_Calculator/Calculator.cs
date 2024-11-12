@@ -25,7 +25,12 @@ namespace KnowledgeCheck1_Calculator
 
         public double Divide(double first, double second)
         {
-            return first / second;
+            if (second == 0)
+            {
+                Console.WriteLine("cant do that buddy");
+                return 0;
+            }
+            return (double)first / second;
         }
     }
 }
