@@ -35,13 +35,13 @@ namespace KnowledgeCheck1_Calculator
                             Console.WriteLine($"{NumOne} + {NumTwo} = {calculator.Add(NumOne, NumTwo)}");
                             break;
                         case "2":
-                            Console.WriteLine($"{NumOne} + {NumTwo} = {calculator.Subtract(NumOne, NumTwo)}");
+                            Console.WriteLine($"{NumOne} - {NumTwo} = {calculator.Subtract(NumOne, NumTwo)}");
                             break;
                         case "3":
-                            Console.WriteLine($"{NumOne} + {NumTwo} = {calculator.Multiply(NumOne, NumTwo)}");
+                            Console.WriteLine($"{NumOne} * {NumTwo} = {calculator.Multiply(NumOne, NumTwo)}");
                             break;
                         case "4":
-                            Console.WriteLine($"{NumOne} + {NumTwo} = {calculator.Divide(NumOne, NumTwo)}");
+                            Console.WriteLine($"{NumOne} / {NumTwo} = {calculator.Divide(NumOne, NumTwo)}");
                             break;
                         default:
                             Console.WriteLine("Unknown input");
